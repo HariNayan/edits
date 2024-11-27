@@ -55,7 +55,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Adobe_Premiere_Pro_CC_icon.svg.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
